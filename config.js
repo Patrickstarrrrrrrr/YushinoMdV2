@@ -2,8 +2,8 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : Dian 
+𝐖𝐚 : 081536907492
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -80,32 +80,32 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['6285765680162', 'Bot', true],
+['6281536907492', 'Dian', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
+global.nomorbot = '6285765680162'
+global.nomorown = '6281536907492'
+global.nomorown1 = '6281536907492'
+global.nomorown2 = '6285765680162'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Aʟᴅɪ X Aɪsʏᴀʜ'
+global.author = 'Dian'
 global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.wm = '© Butuh siapa?Dian dia orangnya baik dan ramah,mau no wa nya?081536907492'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
+global.titlebot = `Dian`
+global.stickpack = 'Dian'
 global.stickauth = `© Yushino MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -125,12 +125,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '0857 6568;0162'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pgopay = '0857 6568 0162'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '0815 3690 7492'
+global.ppulsa2 = '081536907492'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
