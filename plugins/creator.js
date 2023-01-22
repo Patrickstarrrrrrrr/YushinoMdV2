@@ -22,29 +22,29 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : Aldi
+let teksbio = `┆⫹⫺ 💌 Nama : Dian
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
 ┆⫹⫺ ♂️ Gender : Pria
-┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 16 - 10 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
+┆⫹⫺ 🕋 Agama : Kristen
+┆⫹⫺ ⏰ Tanggal lahir : 07 - 08 - 2003
+┆⫹⫺ 🎨 Umur : 19
+┆⫹⫺ 🧮 Kelas : Pekerja
 ┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Sumatera Utara
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Aisyah
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Wanita
-┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 05 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : Banyak
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Bengkulu
+let teksbio2 = `┆⫹⫺ 💌 Nama : Mau isi gak?
+┆⫹⫺ ✉️ Nama RL : Yushino
+┆⫹⫺ ♂️ Gender : 🗿
+┆⫹⫺ 🕋 Agama : 🗿
+┆⫹⫺ ⏰ Tanggal lahir : 🗿
+┆⫹⫺ 🎨 Umur : 🗿
+┆⫹⫺ 🧮 Kelas : 🗿
+┆⫹⫺ 🧩 Hobby : 🗿
+┆⫹⫺ 💬 Sifat : 🗿
+┆⫹⫺ 🗺️ Tinggal : 🗿
 └––––––––––––·•
 `
 
@@ -61,11 +61,11 @@ const sections =
 [{
 title: `⫹⫺ Oᴛʜᴇʀ ⫹⫺`,
 rows: [
-{title: "⸙ Kontak", rowId: ".owner kontak"},
-{title: "⸙ Nomor", rowId: ".owner nomor"},
-{title: "⸙ Biodata Aldi", rowId: ".owner bio"},
-{title: "⸙ Biodata Aisyah", rowId: ".owner bio2"},
-{title: "⸙ Script", rowId: ".sc"},
+{title: "⸙ Kontak", rowId: ".081536907492"},
+{title: "⸙ Nomor", rowId: ".085765680162"},
+{title: "⸙ Biodata Dian", rowId: ".owner bio"},
+{title: "⸙ Biodata Yushino", rowId: ".owner bio2"},
+{title: "⸙ Script", rowId: ".https://github.com/Patrickstarrrrrrrr"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
 rows: [
@@ -143,7 +143,7 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
   }
 }
 
-handler.help = ['owner', 'creator']
+handler.help = ['081536907492', 'Dian']
 handler.tags = ['main', 'info']
 handler.command = /^(owner|creator)/i
 export default handler
